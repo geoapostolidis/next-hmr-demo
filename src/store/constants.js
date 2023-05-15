@@ -1,0 +1,1 @@
+export const RESET_DATA = 'RESET_DATA';
